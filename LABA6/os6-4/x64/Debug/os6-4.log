@@ -1,0 +1,3 @@
+﻿  os6-4.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" завершилась с кодом 1168.
+LINK : fatal error LNK1168: не удается открыть D:\ос\6\os6_2\x64\Debug\os6-4.exe для записи
